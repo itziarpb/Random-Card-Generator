@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#card_poker {
+  height: 520px;
+}
+#firstSymbol {
+  font-size: 80px;
+  padding-left: 20px;
+}
+#central {
+  height: 300px;
+  font-size: 150px;
+}
+#secondSymbol {
+  -webkit-transform: rotate(-180deg);
+  font-size: 80px;
+  padding-right: 40px;
+  margin-bottom: 40px;
+}
+button {
+  margin-top: 100px;
+  margin-right: 100px;
+}
